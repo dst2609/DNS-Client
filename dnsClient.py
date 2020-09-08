@@ -3,7 +3,6 @@
 """
 Created on Wed Feb 19 22:07:57 2020
 @authors:  DEVARSH THAKER
-CS 455 PA1
 """
 
 #necessary imports
